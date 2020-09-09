@@ -8,5 +8,4 @@
 
 1. CLI
 2. GIT
-3. Python
-4. HTML/CSS
+3. c++
